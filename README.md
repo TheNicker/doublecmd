@@ -1,3 +1,8 @@
+
+### This repository is obsolete !
+### Moved to double commander organization at https://github.com/double-commander
+
+
 **Note!**
 
  Since most of the updates are integrated from the upstream branch at sourceforge, the master branch is occasionally rebased.
